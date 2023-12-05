@@ -4,7 +4,7 @@ Welcome to WeatherApp, a simple and intuitive web application for real-time weat
 ![image](https://github.com/shemnduati/weather-app/assets/25221118/1ab6d2f8-847b-47f5-98d8-a87345631744)
 
 
-Features:
+<b>Features:</b> <br />
 City Search: Enter the name of any city to get instant weather updates.
 Temperature: Find the current temperature at your chosen location.
 Humidity: Get insights into the humidity levels for a comprehensive weather overview.
