@@ -9,10 +9,12 @@ City Search: Enter the name of any city to get instant weather updates.
 Temperature: Find the current temperature at your chosen location.
 Humidity: Get insights into the humidity levels for a comprehensive weather overview.
 Wind Speed: Stay informed about the wind speed in your selected city.
-How to Use:
+
+<b>How to Use:</b> <br />
 Enter the desired city in the search field.
 Click the search button to fetch the latest weather data.
-Technologies Used:
+<b>Technologies Used:</b> <br />
+
 HTML
 CSS
 JavaScript
