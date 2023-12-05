@@ -1,6 +1,8 @@
 # weather-app
 Welcome to WeatherApp, a simple and intuitive web application for real-time weather updates. Easily retrieve detailed weather information for any city with just a few clicks.
-![image](https://github.com/shemnduati/weather-app/assets/25221118/cc0943b5-e1d7-4a1a-be79-4bfdd80bf5df)
+
+![image](https://github.com/shemnduati/weather-app/assets/25221118/1ab6d2f8-847b-47f5-98d8-a87345631744)
+
 
 Features:
 City Search: Enter the name of any city to get instant weather updates.
